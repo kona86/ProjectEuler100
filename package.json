@@ -1,0 +1,22 @@
+{
+  "name": "projecteuler100",
+  "version": "1.0.0",
+  "description": "Thumbs Up: I am contributing to #ProjectEuler100 on Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kona86/ProjectEuler100.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kona86/ProjectEuler100/issues"
+  },
+  "homepage": "https://github.com/kona86/ProjectEuler100#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
