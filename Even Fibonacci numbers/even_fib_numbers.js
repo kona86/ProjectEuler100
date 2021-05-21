@@ -1,5 +1,8 @@
 
-function even_fib() {
+function isEven(n) {
+    return n % 2 == 0
+}
 
+function fib() {
 
 }
